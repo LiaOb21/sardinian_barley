@@ -1,0 +1,1 @@
+These config files were used to run [Colora](https://github.com/LiaOb21/colora) (v_0.0.5) to obtain the genome assemblies.
